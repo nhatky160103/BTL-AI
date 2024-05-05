@@ -1,0 +1,166 @@
+2
+Ống Sáo Nẹp Lịch | 1675 525 | Số 1A, Phố Hàng Cót | 0 5
+Trạm Y tế phường Hàng Mã | 1665 615 | Số 5, Phố Hàng Cót | 0 5
+Quán Gà tần Mai Hương | 1660 785 | Số 12, Phố Hàng Cót | 0 5
+Shop Diệu | 1665 895 | Số 12E, Phố Hàng Cót | 0 5
+*
+0
+Phê Đây Cafe | 1560 455 | Số 1, Phố Phan Đình Phùng | 1 0
+*
+0
+Đài Loan Trà Quán Cháo | 1305 445 | Số 3, Phố Phan Đình Phùng | 2 1
+Báo Quân Đội Nhân Dân | 1210 430 | Số 7, Phố Phan Đình Phùng | 2 1
+*
+5
+UnknownPH | 1425 580 | Số 3, Phố Phùng Hưng | 9 1
+Bún Đậu Mắm Tôm Giả Cầy | 1400 685 | Số 5, Phố Phùng Hưng | 9 1
+Nhà hàng Đồng Đội | 1375 840 | Số 11C, Phố Phùng Hưng | 9 1
+Lọ Mọ Quán | 1350 980 | Số 25A, Phố Phùng Hưng | 9 1
+Báo Người Lao Động | 1330 1150 | Số 16F, Phố Phùng Hưng | 9 1
+11 Present Cafe | 1250 1375 | Số 16D, Phố Phùng Hưng | 9 1
+*
+1
+Biên Tập Phát Thanh Quân Đội | 1100 530 | Số 2, Phố Lý Nam Đế | 2 3
+BRG Mart Lý Nam Đế | 1070 615 | Số 1, Phố Lý Nam Đế | 2 3
+UnknownLND | 1050 710 | Số 4, Phố Lý Nam Đế | 2 3
+*
+14
+Quán Phở Cháo gà Bún Miến ngan | 805 735 | Số 29, Ngõ 4 Lý Nam Đế | 3 -1
+UnknownN4LND | 925 760 | Số 20, Ngõ 4 Lý Nam Đế | 3 -1
+*
+1
+Shop Uniqlo Japan | 1020 870 | Số 11A1, Phố Lý Nam Đế | 3 4
+UnknownPLND1 | 1005 955 | Số 12, Phố Lý Nam Đế | 3 4
+*
+15
+HNC Premier Hotel | 755 870 | Số 4B, Ngõ 8 Lý Nam Đế | 4 -1
+UnknownN8LND | 890 920 | Số 2, Ngõ 8 Lý Nam Đế | 4 -1
+*
+1
+Fourt Pilates | 980 1080 | Số 15, Phố Lý Nam Đế | 4 6
+UnknownPLND2 | 975 1130 | Số 12, Phố Lý Nam Đế | 4 6
+*
+6
+UnKnownPH1 | 1555 1110 | Số 29, Phố bích họa Phùng Hưng | 5 9
+Hoang Chien Pinko | 1520 1140 | Số 25, Phố bích họa Phùng Hưng | 5 9
+Quán Lẩu Hoàn Béo | 1425 1250 | Số 19, Phố bích họa Phùng Hưng | 5 9
+UnknownPH2 | 1375 1350 | Số 16, Phố bích họa Phùng Hưng | 5 9
+*
+2
+Cửa hàng Gling | 1655 1180 | Số 24, Phố Hàng Cót | 5 10
+Trường THCS Thanh Quan | 1650 1370 | Số 29, Phố Hàng Cót | 5 10
+Trống Đồng Palace | 1645 1520 | Số 40, Phố Hàng Cót | 5 10
+*
+4
+UnknownHL | 1745 1090 | Số 3, Phố Hàng Lược | 5 11
+Himalaya Indian Restaurant | 1825 1190 | Số 6, Phố Hàng Lược | 5 11
+Tráp Ăn hỏi VIP17 | 1915 1335 | Số 17, Phố Hàng Lược | 5 11
+*
+16
+It's 12 Clothing Store | 805 1155 | Số 13, Ngõ 12B Lý Nam Đế | 6 -1
+Nordic House | 575 1110 | Số 19B, Ngõ 12B Lý Nam Đế | 6 -1
+*
+1
+Showroom Hà Trung | 945 1260 | Số 12A1, Phố Lý Nam Đế | 6 7
+*
+17
+Thẩm mỹ viện Dr.Sơn | 820 1305 | Số 45, Ngõ 12A Lý Nam Đế | 7 -1
+Unknown12ALND | 665 1275 | Số 66B, Ngõ 12A Lý Nam Đế | 7 -1
+*
+1
+Rạp Lý Nam Đế | 915 1415 | Số 17, Phố Lý Nam Đế | 7 8
+Bắc Á Bank | 890 1540 | Số 11, Phố Lý Nam Đế | 7 8
+*
+7
+Ban Thanh Niên - Tổng Cục Chính Trị | 980 1630 | Số 14, Phố Lê Văn Linh | 8 9
+Phở Gà Đan | 1040 1640 | Số 12, Phố Lê Văn Linh | 8 9
+TTC - Khóa Italia | 1105 1645 | Số 7, Phố Lê Văn Linh | 8 9
+*
+1
+UnknownLND1 | 860 1700 | Số 19B, Phố Lý Nam Đế | 8 21
+Bụt Cafe | 835 1790 | Số 14B, Phố Lý Nam Đế | 8 21
+UnknownLND2 | 815 1925 | Số 21A3, Phố Lý Nam Đế | 8 21
+NARSIS Shop | 795 2020 | Số 16, Phố Lý Nam Đế | 8 21
+Doanh trại Quân đội Nhân dân Việt Nam | 780 2125 | Số 21B, Phố Lý Nam Đế | 8 21
+Huy Trần Antique | 750 2260 | Số 37A, Phố Lý Nam Đế | 8 21
+UnknownLND3 | 735 2350 | Số 43, Phố Lý Nam Đế | 8 21
+Pogeun Restaurant | 715 2455 | Số 16A2, Phố Lý Nam Đế | 8 21
+UnknownLND4 | 700 2555 | Số 51, Phố Lý Nam Đế | 8 21
+*
+5
+UnknownPH1 | 1235 1755 | Số 49, Phố Phùng Hưng | 17 9
+Shop Thời Trang Candy Trương | 1220 1820 | Số 57, Phố Phùng Hưng | 17 9
+UnknownPH2 | 1210 1915 | Số 63, Phố Phùng Hưng | 17 9
+*
+8
+Bún Ốc Cô Thêm | 1855 1615 | Số 6, Phố Hàng Chai | 10 12
+UnknownHCh | 1940 1625 | Số 4, Phố Hàng Chai | 10 12
+*
+2
+BEBEN Shop | 1630 1750 | Số 48, Phố Hàng Cót | 10 15
+Chùa Tam Phủ Linh Từ | 1630 1840 | Số 52, Phố Hàng Cót | 10 15
+UnknownHC | 1630 2015 | Số 68, Phố Hàng Cót | 10 15
+*
+9
+UnknownHR | 2045 1590 | Số 2, Phố Hàng Rươi | 11 12
+*
+4
+BOBAPOP Tea | 2150 1665 | Số 61, Phố Hàng Lược | 11 13
+TUTI Homestay | 2230 1780 | Số 77, Phố Hàng Lược | 11 13
+UnknownHL | 2310 1890 | Số 89, Phố Hàng Lược | 11 13
+*
+9
+UnknownHR1 | 2035 1695 | Số 4, Phố Hàng Rươi | 12 14
+Mỳ Gà Tần Hàng Rươi | 2000 1835 | Số 7, Phố Hàng Rươi | 12 14
+UnknownHR2 | 1980 1955 | Số 30, Phố Hàng Rươi | 12 14
+*
+12
+Xôi Hàng Mã | 2165 2010 | Số 43, Phố Hàng Mã | 13 14
+UnknownHM | 2080 2020 | Số 56, Phố Hàng Mã | 13 14
+*
+12
+UnknownHM | 1875 2050 | Số 64, Phố Hàng Mã | 14 15
+The One Hostel Hanoi | 1800 2050 | Số 70, Phố Hàng Mã | 14 15
+*
+12
+Hanoi Lucky Guest House | 1505 2060 | Số 91A, Phố Hàng Mã | 15 16
+UnknownHM | 1445 2055 | Số 92, Phố Hàng Mã | 15 16
+*
+12
+The Haflington Bar | 1295 2040 | Số 94, Phố Hàng Mã | 16 17
+*
+11
+UnknownCD | 1380 2130 | Số 7, Phố Cổng Đục | 16 19
+Cửa Hàng ảnh Minh Tuyết | 1365 2195 | Số 11, Phố Cổng Đục | 16 19
+The little Hanoi | 1345 2335 | Số 14, Phố Cổng Đục | 16 19
+UnknownCD | 1335 2470 | Số 20, Phố Cổng Đục | 16 19
+*
+5
+UnknownPH1 | 1170 2115 | Số 71, Phố Phùng Hưng | 18 17
+Gimbap79 | 1150 2170 | Số 79, Phố Phùng Hưng | 18 17
+X-Men Gym | 1115 2340 | Số 91, Phố Phùng Hưng | 18 17
+UnknownPH2 | 1095 2450 | Số 97, Phố Phùng Hưng | 18 17
+*
+13
+UnknownHV | 1265 2535 | Số 43, Phố Hàng Vải | 18 19
+BaoTrung Salon | 1200 2520 | Số 50, Phố Hàng Vải | 18 19
+*
+5
+UnknownPH | 1065 2570 | Số 105, Phố Phùng Hưng | 20 18
+Quán Cơm 111 Phùng Hưng | 1045 2645 | SỐ 111, Phố Phùng Hưng | 20 18
+*
+18
+Halong Lapinta Cruise | 880 2730 | Số 11, Ngõ Hàng Hương | 20 21
+UnknownHH | 785 2710 | Số 16, Ngõ Hàng Hương | 20 21
+*
+10
+UnknownHK | 2125 1387 | Số 83, Phố Hàng Khoai | 11 -1
+*
+3
+Bò nướng 1A Gầm Cầu | 1875 885 | Số 1A, Phố Gầm Cầu | 5 -1
+Bún ốc nguội | 1766 929 | Số 3, Phố Gầm Cầu | 5 -1
+*
+12
+UnknownHM | 2621 1940 | Số 18, Phố Hàng Mã | 13 -1
+UnknownHM | 2484 1962 | Số 27, Phố Hàng Mã | 13 -1
+***
