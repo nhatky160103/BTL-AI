@@ -44,7 +44,6 @@ This project uses the A* algorithm to find the shortest path between two points 
 ![result 1](result/result1.png)
 ![result 2](result/result1.png)
 ![result 3](result/result3.png)
-https://github.com/user-attachments/assets/288aea25-2ddc-4a7a-8839-babbb10dbf27
 
 
 ## Contact
