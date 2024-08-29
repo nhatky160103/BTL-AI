@@ -4,7 +4,7 @@ This project uses the A* algorithm to find the shortest path between two points 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12.3
 - PySimpleGUI
 - Matplotlib (or equivalent libraries if needed)
 
@@ -50,6 +50,4 @@ This project uses the A* algorithm to find the shortest path between two points 
 
 If you have any questions or encounter issues, please contact us via email: [dinhnhatky16012003@gmail.com](dinhnhatky16012003@gmail.com).
 
-## License
 
-This project is licensed under the MIT License.
